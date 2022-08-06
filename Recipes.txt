@@ -4,6 +4,9 @@ pasta
 fry Rice
 Chicken fry
 
+bean
+yam
+
 
 
 
